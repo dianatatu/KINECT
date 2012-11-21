@@ -1,0 +1,42 @@
+C:\Program Files\Microsoft SDKs\Kinect\v1.0 Beta2\Samples\KinectSDKSamples\Managed\SkeletalViewer\bin\Debug\SkeletalViewer.exe.config
+C:\Program Files\Microsoft SDKs\Kinect\v1.0 Beta2\Samples\KinectSDKSamples\Managed\SkeletalViewer\bin\Debug\SkeletalViewer.exe
+C:\Program Files\Microsoft SDKs\Kinect\v1.0 Beta2\Samples\KinectSDKSamples\Managed\SkeletalViewer\bin\Debug\SkeletalViewer.pdb
+C:\Program Files\Microsoft SDKs\Kinect\v1.0 Beta2\Samples\KinectSDKSamples\Managed\SkeletalViewer\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Program Files\Microsoft SDKs\Kinect\v1.0 Beta2\Samples\KinectSDKSamples\Managed\SkeletalViewer\bin\Debug\INuiInstanceHelper.dll
+C:\Program Files\Microsoft SDKs\Kinect\v1.0 Beta2\Samples\KinectSDKSamples\Managed\SkeletalViewer\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Program Files\Microsoft SDKs\Kinect\v1.0 Beta2\Samples\KinectSDKSamples\Managed\SkeletalViewer\obj\Debug\ResolveAssemblyReference.cache
+C:\Program Files\Microsoft SDKs\Kinect\v1.0 Beta2\Samples\KinectSDKSamples\Managed\SkeletalViewer\obj\Debug\MainWindow.baml
+C:\Program Files\Microsoft SDKs\Kinect\v1.0 Beta2\Samples\KinectSDKSamples\Managed\SkeletalViewer\obj\Debug\MainWindow.g.cs
+C:\Program Files\Microsoft SDKs\Kinect\v1.0 Beta2\Samples\KinectSDKSamples\Managed\SkeletalViewer\obj\Debug\App.g.cs
+C:\Program Files\Microsoft SDKs\Kinect\v1.0 Beta2\Samples\KinectSDKSamples\Managed\SkeletalViewer\obj\Debug\SkeletalViewer_MarkupCompile.cache
+C:\Program Files\Microsoft SDKs\Kinect\v1.0 Beta2\Samples\KinectSDKSamples\Managed\SkeletalViewer\obj\Debug\SkeletalViewer.g.resources
+C:\Program Files\Microsoft SDKs\Kinect\v1.0 Beta2\Samples\KinectSDKSamples\Managed\SkeletalViewer\obj\Debug\SkeletalViewer.exe
+C:\Program Files\Microsoft SDKs\Kinect\v1.0 Beta2\Samples\KinectSDKSamples\Managed\SkeletalViewer\obj\Debug\SkeletalViewer.pdb
+D:\licenta\SkeletalViewer\bin\Debug\SkeletalViewer.exe.config
+D:\licenta\SkeletalViewer\obj\Debug\SkeletalViewer.exe
+D:\licenta\SkeletalViewer\obj\Debug\SkeletalViewer.pdb
+D:\licenta\SkeletalViewer\bin\Debug\SkeletalViewer.exe
+D:\licenta\SkeletalViewer\bin\Debug\SkeletalViewer.pdb
+D:\licenta\SkeletalViewer\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+D:\licenta\SkeletalViewer\bin\Debug\INuiInstanceHelper.dll
+D:\licenta\SkeletalViewer\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+D:\licenta\SkeletalViewer\obj\Debug\ResolveAssemblyReference.cache
+D:\licenta\SkeletalViewer\obj\Debug\MainWindow.baml
+D:\licenta\SkeletalViewer\obj\Debug\MainWindow.g.cs
+D:\licenta\SkeletalViewer\obj\Debug\App.g.cs
+D:\licenta\SkeletalViewer\obj\Debug\SkeletalViewer_MarkupCompile.cache
+D:\licenta\SkeletalViewer\obj\Debug\SkeletalViewer.g.resources
+D:\LICENTA\auxiliare\SkeletalViewer\bin\Debug\SkeletalViewer.exe.config
+D:\LICENTA\auxiliare\SkeletalViewer\bin\Debug\SkeletalViewer.exe
+D:\LICENTA\auxiliare\SkeletalViewer\bin\Debug\SkeletalViewer.pdb
+D:\LICENTA\auxiliare\SkeletalViewer\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+D:\LICENTA\auxiliare\SkeletalViewer\bin\Debug\INuiInstanceHelper.dll
+D:\LICENTA\auxiliare\SkeletalViewer\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+D:\LICENTA\auxiliare\SkeletalViewer\obj\Debug\ResolveAssemblyReference.cache
+D:\LICENTA\auxiliare\SkeletalViewer\obj\Debug\MainWindow.baml
+D:\LICENTA\auxiliare\SkeletalViewer\obj\Debug\MainWindow.g.cs
+D:\LICENTA\auxiliare\SkeletalViewer\obj\Debug\App.g.cs
+D:\LICENTA\auxiliare\SkeletalViewer\obj\Debug\SkeletalViewer_MarkupCompile.cache
+D:\LICENTA\auxiliare\SkeletalViewer\obj\Debug\SkeletalViewer.g.resources
+D:\LICENTA\auxiliare\SkeletalViewer\obj\Debug\SkeletalViewer.exe
+D:\LICENTA\auxiliare\SkeletalViewer\obj\Debug\SkeletalViewer.pdb
